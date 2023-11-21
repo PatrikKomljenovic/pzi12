@@ -14,7 +14,7 @@
         <nav>
             <div class="w3-bar w3-black">
                 <a href="index.html" class="w3-bar-item w3-button">Početna stranica</a>
-                <a href="" class="w3-bar-item w3-button">Sve ponude</a>
+                <a href="sve_ponude.html" class="w3-bar-item w3-button">Sve ponude</a>
                 <a href="kontakt.html" class="w3-bar-item w3-button">Kontakt</a>
             </div>          
         </nav>
